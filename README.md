@@ -1,5 +1,5 @@
 
-![portadareadme.png](attachment:portadareadme.png)
+<img src="images/portadareadme.png">
 
 <ul>
     <li><img src="images/githublogo.png" width="16" height="16" style="float:left;margin-right:10px;"> <a href="https://github.com/jeslopcas">Jessica López</a></li>
