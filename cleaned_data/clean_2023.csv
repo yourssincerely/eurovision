@@ -1,0 +1,38 @@
+year,semi_draw_position,final_draw_position,country,artist_name,song_name,language,style,gender,main_singers,key,BPM,energy,danceability,happiness,loudness,liveness,speechiness,backing_dancers,backing_singers,backing_instruments,instrument_10,final_televote_points,final_jury_points,final_place,semi_place,favourite_10,host_10
+2023,1,,Norway,Alessandra,Queen of Kings ,English,Pop,Female,1,E Minor,126,91,56,17,-4,33,9,4,0,0,0,,,,,0,0
+2023,2,,Malta,The Busker,Dance (Our Own Party) ,English,Dance,Male,1,F Minor,103,78,70,82,-6,18,4,0,0,3,0,,,,,0,0
+2023,3,,Serbia,Luke Black,Samo mi se spava ,"Serbian, English",Pop,Male,1,A Major,103,73,55,12,-8,44,6,4,0,0,0,,,,,0,0
+2023,4,,Latvia,Sudden Lights,Aijā ,English,Rock,Male,1,A Minor,160,55,56,40,-8,8,7,0,0,4,0,,,,,0,0
+2023,5,,Portugal,Mimicat,Ai Coração ,Portuguese,Traditional,Female,1,Fs Minor,145,63,66,77,-8,16,5,4,0,0,0,,,,,0,0
+2023,6,,Ireland,Wild Youth,We Are One ,English,Rock,Male,1,D Major,112,66,47,12,-7,9,3,0,4,3,0,,,,,0,0
+2023,7,,Croatia,Let 3,Mama ŠČ! ,Croatian,Rock,Male,1,C Major,135,78,60,63,-7,21,9,5,0,4,0,,,,,0,0
+2023,8,,Switzerland,Remo Forrer,Watergun ,English,Pop,Male,1,Gs Minor,138,36,50,42,-13,17,4,0,0,4,0,,,,,0,0
+2023,9,,Israel,Noa Kirel,Unicorn ,English,Dance,Female,1,Fs Minor,130,87,68,28,-6,32,10,0,0,0,0,,,,,0,0
+2023,10,,Moldova,Pasha Parfeni,Soarele și Luna ,Romanian,Pop,Male,1,Gs Major,125,86,62,34,-5,18,14,2,2,3,0,,,,,0,0
+2023,11,,Sweden,Loreen,Tattoo ,English,Pop,Female,1,Db Minor,150,78,55,30,-6,12,8,0,0,0,0,,,,,1,0
+2023,12,,Azerbaijan,TuralTuranX,Tell Me More ,English,Rock,Male,2,D Major,96,74,71,42,-8,29,4,0,0,0,1,,,,,0,0
+2023,13,,Czechia,Vesna,My Sister's Crown ,"English, Ukrainian, Czech, Bulgarian",Pop,Female,3,E Minor,150,92,55,51,-6,37,16,0,0,3,0,,,,,0,0
+2023,14,,Netherlands,Mia Nicolai & Dion Cooper,Burning Daylight ,English,Pop,Mix,2,Db Major,71,43,28,29,-9,11,4,0,0,0,0,,,,,0,0
+2023,15,,Finland,Käärijä,Cha Cha Cha ,Finnish,Dance,Male,1,D Major,155,79,72,74,-6,11,4,4,0,0,0,,,,,0,0
+2023,1,,Denmark,Reiley,Breaking My Heart ,English,Pop,Male,1,D Major,194,75,59,57,-5,10,36,4,0,0,0,,,,,0,0
+2023,2,,Armenia,Brunette,Future Lover ,"English, Armenian",Ballad,Female,1,D Minor,103,44,56,24,-11,10,4,0,0,0,0,,,,,0,0
+2023,3,,Romania,Theodor Andrei,D.G.T. (Off and On) ,"Romanian, English",Rock,Male,1,A Minor,110,75,68,84,-6,25,3,4,0,2,0,,,,,0,0
+2023,4,,Estonia,Alika,Bridges ,English,Ballad,Female,1,C Minor,140,47,59,33,-5,14,3,0,0,1,1,,,,,0,0
+2023,5,,Belgium,Gustaph,Because of You ,English,Dance,Male,1,F Minor,127,83,76,58,-5,10,4,2,2,0,0,,,,,0,0
+2023,6,,Cyprus,Andrew Lambrou,Break a Broken Heart ,English,Ballad,Male,1,Db Minor,130,74,43,43,-4,19,4,0,0,3,0,,,,,0,0
+2023,7,,Iceland,Diljá,Power ,English,Pop,Female,1,F Minor,160,74,39,29,-5,35,6,0,0,0,0,,,,,0,0
+2023,8,,Greece,Victor Vernicos,What They Say ,English,Ballad,Male,1,C Major,154,55,40,27,-6,28,11,3,0,1,1,,,,,0,0
+2023,9,,Poland,Blanka,Solo ,English,Dance,Female,1,B Minor,99,64,90,72,-7,12,4,4,0,0,0,,,,,0,0
+2023,10,,Slovenia,Joker Out,Carpe Diem ,Slovene,Rock,Male,1,Cs Minor,132,66,69,56,-9,10,4,0,4,4,0,,,,,0,0
+2023,11,,Georgia,Iru,Echo ,English,Pop,Female,1,G Minor,145,91,59,37,-4,30,14,0,0,0,0,,,,,0,0
+2023,12,,San Marino,Piqued Jacks,Like An Animal ,English,Rock,Male,1,C Major,128,79,54,64,-6,21,4,0,0,3,0,,,,,0,0
+2023,13,,Austria,Teya & Salena,Who The Hell Is Edgar? ,English,Dance,Female,2,B Minor,146,64,69,51,-8,10,6,0,0,0,0,,,,,0,0
+2023,14,,Albania,Albina & Familja Kelmendi,Duje ,Albanian,Traditional,Mix,1,D Minor,110,56,50,41,-14,74,5,0,5,0,0,,,,,0,0
+2023,15,,Lithuania,Monika Linkytė,Stay ,English,Pop,Female,1,B Major,98,55,40,18,-7,8,4,0,4,0,0,,,,,0,0
+2023,16,,Australia,Voyager,Promise ,English,Rock,Male,1,C Major,122,69,64,30,-8,11,7,0,0,4,1,,,,,0,0
+2023,0,,Germany,Lord Of The Lost,Blood & Glitter ,English,Rock,Male,1,A Minor,139,80,64,47,-4,5,8,0,0,4,0,,,,,0,0
+2023,0,,Spain,Blanca Paloma,Eaea ,Spanish,Traditional,Female,1,F Minor,116,73,61,26,-4,39,4,5,5,0,0,,,,,0,0
+2023,0,,France,La Zarra,Évidemment ,French,Pop,Female,1,B Major,120,74,72,27,-5,8,7,0,3,0,0,,,,,0,0
+2023,0,,Italy,Marco Mengoni,Due vite ,Italian,Ballad,Male,1,D Major,117,54,64,13,-6,9,3,0,0,0,0,,,,,0,0
+2023,0,19.0,Ukraine,Tvorchi,Heart of Steel ,"English, Ukrainian",Pop,Male,1,Gs Minor,78,52,53,34,-8,9,5,2,0,1,0,,,,,0,0
+2023,0,26.0,United Kingdom,Mae Muller,I Wrote A Song ,English,Dance,Female,1,A Minor,125,89,71,80,-4,8,5,4,0,0,0,,,,,0,1
